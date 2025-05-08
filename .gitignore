@@ -1,0 +1,5 @@
+__pycache__/
+notes/
+problems/
+venv/
+problems.db

@@ -1,0 +1,13 @@
+#topbar {
+  height: auto;
+}
+#timer-controls {
+    height: auto;
+    margin: 0;
+    padding: 0;
+
+}
+
+#timer-label {
+    margin: 1;
+}
